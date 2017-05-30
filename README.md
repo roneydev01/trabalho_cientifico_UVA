@@ -1,1 +1,3 @@
-# trabalho-cientifico
+# ﻿XVI Encontro de Iniciação Científica UVA
+## ﻿Algoritmo de Huffman e Suas Aplicabilidades em Criptografia de Dados nas Redes Corporativas
+Trabalho aprovado e apresentado no encontro de iniciação ciêntifica da Universidade Vale do Acaraú.
